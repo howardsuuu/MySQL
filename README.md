@@ -1,2 +1,3 @@
 # MySQL
-# If you want to run the program, remember to add # on each step before you moving on the next step
+Basic database manipulation, includes import data,
+create table, insert, uupdate, and search record.
